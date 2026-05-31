@@ -6,7 +6,7 @@
 
 🌐 Interesado en desarrollo web y tecnologías modernas
 
-🚀 Actualmente trabajando en TutorMatch
+🚀 Actualmente desarrollando TutorMatch
 
 ## Tecnologías
 
@@ -25,8 +25,12 @@
 
 Aplicación móvil desarrollada para conectar estudiantes con tutores mediante una plataforma intuitiva y moderna.
 
-## Objetivos
+## Actualmente aprendiendo
 
-* Mejorar continuamente mis habilidades de desarrollo.
-* Construir proyectos reales.
-* Crear soluciones útiles mediante software.
+* Arquitectura de aplicaciones Flutter
+* Integración de APIs REST
+* Desarrollo web moderno
+
+## Contacto
+
+* GitHub: https://github.com/LuisTobon1997

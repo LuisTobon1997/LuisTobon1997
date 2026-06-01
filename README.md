@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Luis Heber Tobón Ballén" width="100%">
+  <img src="./assets/banner.png" width="100%">
 </p>
 
 # Hola 👋, soy Luis Heber Tobón Ballén

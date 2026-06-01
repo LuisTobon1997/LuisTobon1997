@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%">
+  <img src="assets/act.png" width="100%">
 </p>
-
 # Hola 👋, soy Luis Heber Tobón Ballén
 
 🎓 Estudiante de Ingeniería en Computación
